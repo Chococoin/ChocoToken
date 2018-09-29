@@ -4,7 +4,7 @@ contract ChocoToken {
     string  public name = "ChocoToken";
     string  public symbol = "CTOK";
     string  public standard = "ChocoToken v0.9";
-    string public priceOfToken = "€ 0.00008"
+    string public priceOfToken = "€ 0.00008";
     uint256 public totalSupply = 100000000000;
     uint8 public decimals = 0;
 
