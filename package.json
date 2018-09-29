@@ -26,6 +26,6 @@
   "homepage": "https://github.com/Chococoin/ChocoToken#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
-    "truffle-hdwallet-provider": "0.0.6"
+    "truffle-hdwallet-provider": "^1.0.0-web3one.0"
   }
 }
